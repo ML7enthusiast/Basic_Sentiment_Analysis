@@ -4,14 +4,14 @@ This project focuses on classifying text data into one of six emotional categori
 
 ## Files Included
 
-- `Sentiment_Analysis_assignment.ipynb` — Jupyter notebook containing all code and explanations
+- `Sentiment_Analysis_assignment.ipynb` — colab notebook containing all code and explanations
 - `training.csv` — Labeled training dataset
 - `validation.csv` — Labeled validation dataset
 - `test.csv` — Unlabeled dataset used for testing final predictions
 
 ##  Emotion Categories
 
-The dataset consists of six emotion labels, encoded as integers from 0 to 5. Each label corresponds to a unique emotion (e.g., 0 = Happy, 1 = Sad, ...). You can modify the code to map these to actual labels.
+The dataset consists of six emotion labels, encoded as integers from 0 to 5. Each label corresponds to a unique emotion (e.g.,0: 'sadness',1: 'joy', 2: 'love', 3: 'anger',4: 'fear',5: 'surprise'). You can modify the code to map these to actual labels.
 
 ##  Tech stack
 
