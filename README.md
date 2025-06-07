@@ -41,5 +41,5 @@ The dataset consists of six emotion labels, encoded as integers from 0 to 5. Eac
 ## Sample Usage
 
 ```python
-predict("I am feeling amazing today!") 
+print(predict_emotion("I am feeling amazing today!"))
 # Output: Predicted Emotion -> Label: 1 that is labeled as joy
